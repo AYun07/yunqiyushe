@@ -22,8 +22,8 @@
   // ===== 配置区：按实际情况修改 =====
   const CONFIG = {
     // GitHub 仓库信息（把预设 JSON 放在仓库根目录或任意路径）
-    repoOwner: 'YOUR_GITHUB_USERNAME',      // 你的 GitHub 用户名
-    repoName: 'dsyq-preset',                // 仓库名
+    repoOwner: 'AYun07',                    // 你的 GitHub 用户名
+    repoName: 'yunqiyushe',                 // 仓库名
     presetPath: 'DS云起预设.json',          // 仓库内预设文件路径
     branch: 'main',                         // 分支名
 
